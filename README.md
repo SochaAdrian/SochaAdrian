@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">Junior Fullstack Developer</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sochaadrian&label=Profile%20views&color=0e75b6&style=flat" alt="sochaadrian" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/SochaAdrian/SymfonyPortfolio)
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Symfony/Laravel**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/SochaAdrian](https://github.com/SochaAdrian)
 
