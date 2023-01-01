@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sochaadrian&label=Profile%20views&color=0e75b6&style=flat" alt="sochaadrian" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sochaadrian" alt="sochaadrian" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/SochaAdrian/SymfonyPortfolio)
+- 🔭 I’m currently working on [my portfolio](https://github.com/SochaAdrian/bussiness-data-importer)
 
 - 🌱 I’m currently learning **Symfony/Laravel**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/SochaAdrian](https://github.com/SochaAdrian)
-
-- 💬 Ask me about **PHP / Tailwind / Wordpress / PrestaShop**
 
 - 📫 How to reach me **adrian.soc98@gmail.com**
 
